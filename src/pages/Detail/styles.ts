@@ -33,6 +33,7 @@ export const ContentContainer = styled.div`
   flex-direction: column;
   justify-content: space-between;
   padding: 10px 20px 0 20px;
+  width: 100%;
 `;
 
 export const OverViewContainer = styled.div``;
@@ -106,7 +107,7 @@ export const Average = styled.div`
 `;
 
 export const ImageContainer = styled.div`
-  width: 50%;
+  width: 500px;
 `;
 
 export const Image = styled.img`
